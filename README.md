@@ -16,7 +16,10 @@
 <h3 align="center">中文文档 | <a href="README_en.md">English</a> </h3>
 <h3 align="center">请仔细阅读本文档以及使用说明，再使用。</h3>
 <h3 align="center">使用本项目可能需要一定的基础知识。</h3>
-<h3 align="center">本项目仍在更新当中。</h3>
+
+---
+
+## 本项目前端已停止维护，请移步至授权版[AppleAutoPro](https://github.com/pplulee/AppleAutoPro)。后端仍正常维护。
 
 # 基本简介
 
