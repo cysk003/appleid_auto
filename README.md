@@ -47,12 +47,6 @@
 - 允许手动触发解锁
 - ……
 
-# 使用文档
-
-我们已将所有文档与使用说明整理到了GitBook上，欢迎前往查看：
-
-https://appleid-auto.gitbook.io/doc_zhcn/
-
 # 问题反馈&交流
 
 开发者水平和能力有限，程序可能存在诸多bug，欢迎提出 Issue 或 Pull Request ，也欢迎各位大佬加入项目，贡献代码！ \
